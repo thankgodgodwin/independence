@@ -1,0 +1,14 @@
+{
+  "name": "independence-day",
+  "version": "1.0.0",
+  "description": "independence-day",
+  "main": "index.js",
+  "scripts": {
+    "compiler": "node-sass styles/sass/style.scss styles/style.css -w"
+  },
+  "author": "ThankGod Godwin",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
